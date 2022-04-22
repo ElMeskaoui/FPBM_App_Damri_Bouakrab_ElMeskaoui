@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Page3">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            layout="@layout/app_bar"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="">
+        </TextView>
+       <Button
+           android:id="@+id/site"
+           android:onClick="openWeb"
+           android:layout_width="300dp"
+           android:layout_height="60dp"
+           android:text="Site Web"
+           android:backgroundTint="@color/colorAccent">
+       </Button>
+
+        <Button
+            android:id="@+id/location"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:backgroundTint="@color/colorAccent"
+            android:onClick="openLocation"
+            android:text="Location">
+        </Button>
+
+        <Button
+            android:id="@+id/phon"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:text="Phon Number"
+            android:backgroundTint="@color/colorAccent">
+        </Button>
+    </LinearLayout>
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPagerImageSlider"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="80dp"
+        android:paddingEnd="80dp">
+    </androidx.viewpager2.widget.ViewPager2>
+
+</LinearLayout>

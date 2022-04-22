@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable-v24/menu_back.xml" value="0.1595" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable-v24/menu_back_state.xml" value="0.1595" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable-v24/menu_item_padding.xml" value="0.1595" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable-v24/support.xml" value="0.1595" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable/customborder.xml" value="0.1065" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/drawable/ic_pdf.xml" value="0.1065" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_dashboard.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_detail_formation_licence.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_detail_formation_master.xml" value="0.22" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_diploma.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_diplome.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_emp.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_list_formation.xml" value="0.2" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page1.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page2.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page3.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page4.xml" value="0.2" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page5.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_page6.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_pdf1.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_pdf2.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_pdf3.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_pdf4.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_pdf5.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_resutls.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_view_pdf.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/activity_web.xml" value="0.18034188034188034" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/app_bar.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/elements.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/layout_item.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/nav_header.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/page1.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/slide_item_container.xml" value="0.1811965811965812" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/21269/AndroidStudioProjects/FPhome/app/src/main/res/menu/menu.xml" value="0.1841880341880342" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".DetailFormationLicence">
+
+    <TextView
+        android:layout_width="336dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="24dp"
+        android:text="@string/licence_text"
+        android:textSize="30sp"
+        android:textStyle="bold"></TextView>
+
+    <Button
+        android:id="@+id/viewPDF_smi"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="282dp"
+        android:backgroundTint="#0087b7"
+        android:text="SMI">
+
+    </Button>
+
+    <Button
+        android:id="@+id/viewPDF_svi"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="424dp"
+        android:backgroundTint="#0087b7"
+        android:text="SVI">
+
+    </Button>
+
+    <Button
+        android:id="@+id/viewPDF_smpc"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="566dp"
+        android:backgroundTint="#0087b7"
+        android:text="SMP">
+
+    </Button>
+
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".ListFormation">
+
+
+    <include
+        layout="@layout/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:layout_width="399dp"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-6dp"
+        android:layout_marginTop="67dp"
+        android:layout_marginEnd="0dp"
+        android:background="#faa61f"
+        android:text="@string/d_couvrez_les_offres_de_formations_2020_2021"
+        android:textAllCaps="true"
+        android:textColor="#f5f5dc"
+        android:textColorHighlight="#000"
+        android:textSize="25sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/licence"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="282dp"
+        android:backgroundTint="#0087b7"
+        android:text="Licence"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/master"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="424dp"
+        android:backgroundTint="#0087b7"
+        android:text="Master"
+        android:textSize="20sp">
+    </Button>
+
+</RelativeLayout>

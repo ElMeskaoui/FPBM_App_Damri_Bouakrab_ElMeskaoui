@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "127964387665",
+    "firebase_url": "https://elhoucine-10dfc-default-rtdb.firebaseio.com",
+    "project_id": "elhoucine-10dfc",
+    "storage_bucket": "elhoucine-10dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127964387665:android:011f85dc62b6299d1a5b70",
+        "android_client_info": {
+          "package_name": "com.example.fphome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127964387665-0lks567lfkh8ce3bq97crh5bvgdv0vrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-hfxRAJy4r1KuzSt9lXCOqVG1Ch1kS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127964387665-0lks567lfkh8ce3bq97crh5bvgdv0vrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127964387665:android:35536df97e66178c1a5b70",
+        "android_client_info": {
+          "package_name": "com.techriz.firebasemultiplefiledownloaderfirestorerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127964387665-0lks567lfkh8ce3bq97crh5bvgdv0vrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-hfxRAJy4r1KuzSt9lXCOqVG1Ch1kS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127964387665-0lks567lfkh8ce3bq97crh5bvgdv0vrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

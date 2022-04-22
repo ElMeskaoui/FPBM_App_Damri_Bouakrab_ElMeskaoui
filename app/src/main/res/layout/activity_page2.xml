@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Page2">
+
+
+    <FrameLayout
+
+        android:layout_width="414dp"
+        android:layout_height="65dp"
+        android:gravity="center"
+        tools:ignore="MissingConstraints"
+        android:background="@android:color/holo_blue_dark">
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/viewpdf"
+        android:layout_width="411dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="100dp"
+        android:backgroundTint="#0087b7"
+        android:text="ISI_S1"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="216dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="411dp"
+        android:layout_height="115dp"
+        android:backgroundTint="#0087b7"
+        android:text="STRI_S1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.521"
+        tools:layout_editor_absoluteX="3dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="405dp"
+        android:layout_height="112dp"
+        android:backgroundTint="#0087b7"
+        android:text="SMI_S1"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="445dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="406dp"
+        android:layout_height="112dp"
+        android:backgroundTint="#0087b7"
+        android:text="SVI_S1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="559dp" />
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="406dp"
+        android:layout_height="112dp"
+        android:backgroundTint="#0087b7"
+        android:text="SMP_S1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="559dp" />
+
+
+</LinearLayout>
